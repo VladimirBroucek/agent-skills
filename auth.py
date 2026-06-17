@@ -1,5 +1,8 @@
+"""Authentication module containing Google OAuth2 login flow."""
+
 import os
 from typing import Optional
+
 
 def login():
     """Generic login placeholder."""
